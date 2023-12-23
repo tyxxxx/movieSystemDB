@@ -1,6 +1,6 @@
 [TOC]
 
-# DSCI551 Final Project
+# Final Project
 
 ## Project Structure
 
