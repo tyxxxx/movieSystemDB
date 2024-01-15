@@ -2,14 +2,6 @@
 
 <div style="page-break-before:always"></div>
 
-Group 34
-
-Tangzhou Hao
-
-Yuqi Zhang
-
-Yuxin Tian
-
 # Introduction
 
 We are a three person team (group 34) and we built a database system called AwesomeDB. We designed different database engine for our database system that provides support for relational and nosql functionalities. We provided two real-life large datasets form kaggle, `movies.csv` and `rotten_tomatoes_movies.csv` for testing our databases. Since the two data set doesn't have tables to be joined, we also supplied the `joinTable1.csv` and `joinTable2.csv` for testing join operations. All storage and operations are processed in chunks so that we only need to load a limited amount of data into main memory at a time. This project also provides a CLI and Web app for users to interact with our database system. We also designed a query language of our own to query the database in the CLI.
